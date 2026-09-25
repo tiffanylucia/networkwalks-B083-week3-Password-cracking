@@ -76,3 +76,22 @@ This project covers two core practical modules:
 
 ## ⚠️ Disclaimer
 *All activities in this repository were performed in a controlled educational lab environment for defensive and ethical learning purposes only.*
+
+Here are some screenshots showing how i used JTR and Browser-Based Networkwalks Tools to crack the passwords to the locked PDFS that i have uploaded
+## 🏗️ Lab Architecture
+
+![](Screenshot-2026-09-25-200502.png)
+
+![](Screenshot 2026-09-25 200625.png)
+
+![](Screenshot 2026-09-25 200642.png)
+
+![](Screenshot 2026-09-25 230910.png)
+
+![](Screenshot 2026-09-25 231107.png)
+
+![](Screenshot 2026-09-25 231150.png)
+
+![](Screenshot 2026-09-25 231314.png)
+
+![](Screenshot 2026-09-25 231410.png)
