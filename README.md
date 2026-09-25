@@ -1,4 +1,3 @@
-# networkwalks-B083-week3-Password-cracking
 # Week 3: Password Cracking & Cryptographic Analysis Lab
 
 A hands-on cybersecurity project demonstrating hash extraction, dictionary-based attack methodologies, and credential recovery using **John the Ripper (JTR)**, **Johnny GUI**, and **Networkwalks Web-Based Security Tools**.
